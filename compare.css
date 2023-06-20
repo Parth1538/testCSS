@@ -1,0 +1,181 @@
+.header {
+    background: red !important;
+}
+.navbar-heading{
+    color: red;
+}
+.segment-selector .panel-heading{
+    color: red !important;
+}
+.segment-selector .vehicle-tiles-container .accordion-data{
+    background: green !important;
+
+}
+.segment-selector .vehicle-tiles-container .accordion-data:hover{
+    border-color: yellow !important;
+}
+.segment-selector .vehicle-tiles-container .accordion-data .model-year{
+    color:green;
+}
+
+.segment-selector .vehicle-tiles-container .accordion-data .model-price{
+    color:green;
+}
+
+.select-trim-overlay .model-year{
+    color: pink !important;
+}
+
+.select-trim-overlay .trim-overlay .trim-row .custom-control .trim-name{
+    color: orange !important;
+}
+.select-trim-overlay .trim-overlay .trim-row .custom-control input[type="radio"]{
+    background-color: greenyellow;
+}
+.select-trim-overlay .trim-overlay .trim-row .trim-price{
+    color: green !important;
+}
+
+.select-trim-overlay .trim-overlay .trim-row .variation-name{
+    color: green;
+}
+.btn-default{
+    color: green;
+    background-color: red;
+    border-color: orange;
+}
+.btn-default:hover {
+    color: blue;
+    background-color: purple;
+}
+
+.btn-default:visited, .btn-default:focus {
+    background-color: #f0f0f0;
+    color: gray;
+}
+
+.btn-default:active {
+    color: pink;
+    background-color: #f0f0f0;
+    border-color: red;
+}
+.btn-active {
+    color: purple;
+    background-color:red;
+    border-color: blue;
+}
+.primary-btn {
+    color: red !important;
+    background-color: blue;
+    border-color: green;
+}
+.primary-btn  .MuiSvgIcon-root {
+    color:red
+}
+
+.filter-submit .filter-circle{
+    background-color: rosybrown;
+    color: aqua;
+}
+
+.filter-slider .MuiSlider-thumb {
+    border-color:saddlebrown;
+    color: darkblue;
+}
+.filter-slider .MuiSlider-track{
+    color: rebeccapurple;
+}
+.filter-container .price-values{
+    color: greenyellow;
+}
+
+.filter-container .filter-heading{
+    color:palevioletred;
+}
+
+.filter-heading .close .MuiSvgIcon-root{
+    stroke: indigo;
+}
+
+.filter-data:hover{
+    color: yellow;
+    border-color:darkturquoise ;
+}
+.img-filter .active-filter-checked{
+    background-color: red;
+    border-color: blue;
+}
+.active-filter-checked svg path{
+    fill: navy;
+}
+.change-vehicle-modal .modal-header .model-title{
+    color: brown;
+}
+
+.change-modal-window .form-group .label-title{
+    color: red;
+}
+
+.change-vehicle-modal .form-control-divs{
+
+}
+.feature-container .primary-vehicle {
+    border-right-color: red;
+}
+.feature-container .competitor-vehicle {
+    border-right-color: red;
+    border-left-color: blueviolet;
+}
+
+.competitor-vehicle .competitor-vehicle-overview .close-compare .MuiSvgIcon-root {
+    stroke: red
+}
+.feature-panel-category{
+    background: yellow;
+}
+.feature-panel-category .MuiAccordionSummary-root {
+    background-color: green;
+}
+
+.feature-panel-category .MuiSvgIcon-root {
+    color: aqua;
+}
+
+.feature-panel-category  .MuiButtonBase-root {
+    color: orange;
+}
+
+.feature-panel-category .MuiAccordionDetails-root {
+    border-color: red;
+}
+
+.feature-table .feature-row{
+    color:blueviolet;
+}
+.feature-table tr:nth-child(even) {
+    background-color: blueviolet;
+
+}
+
+.feature-table tr:nth-child(odd) {
+    background-color: darkmagenta;
+}
+
+.primary-vehicle-container{
+    background: greenyellow;
+}
+
+.primary-vehicle-container .vehicle-details .model-year-make{
+    color: magenta;
+}
+.secondary-container .secondaryVehicle{
+    background: navajowhite;
+}
+
+.secondaryVehicle .competitor-details .competitor-title{
+    color: blueviolet;
+}
+
+.secondaryVehicle .competitor-details .competitor-price{
+    color: indianred;
+}
